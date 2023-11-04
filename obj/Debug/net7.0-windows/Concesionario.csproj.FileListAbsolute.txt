@@ -1,0 +1,40 @@
+G:\2DAM-23-24\JE(DI)\Visual Studio C#\Concesionario\obj\Debug\net7.0-windows\view\MainWindow.g.cs
+G:\2DAM-23-24\JE(DI)\Visual Studio C#\Concesionario\obj\Debug\net7.0-windows\App.g.cs
+G:\2DAM-23-24\JE(DI)\Visual Studio C#\Concesionario\obj\Debug\net7.0-windows\Concesionario_MarkupCompile.cache
+G:\2DAM-23-24\JE(DI)\Visual Studio C#\Concesionario\obj\Debug\net7.0-windows\Concesionario_MarkupCompile.lref
+G:\2DAM-23-24\JE(DI)\Visual Studio C#\Concesionario\bin\Debug\net7.0-windows\Concesionario.exe
+G:\2DAM-23-24\JE(DI)\Visual Studio C#\Concesionario\bin\Debug\net7.0-windows\Concesionario.deps.json
+G:\2DAM-23-24\JE(DI)\Visual Studio C#\Concesionario\bin\Debug\net7.0-windows\Concesionario.runtimeconfig.json
+G:\2DAM-23-24\JE(DI)\Visual Studio C#\Concesionario\bin\Debug\net7.0-windows\Concesionario.dll
+G:\2DAM-23-24\JE(DI)\Visual Studio C#\Concesionario\bin\Debug\net7.0-windows\Concesionario.pdb
+G:\2DAM-23-24\JE(DI)\Visual Studio C#\Concesionario\obj\Debug\net7.0-windows\view\MainWindow.baml
+G:\2DAM-23-24\JE(DI)\Visual Studio C#\Concesionario\obj\Debug\net7.0-windows\Concesionario.g.resources
+G:\2DAM-23-24\JE(DI)\Visual Studio C#\Concesionario\obj\Debug\net7.0-windows\Concesionario.GeneratedMSBuildEditorConfig.editorconfig
+G:\2DAM-23-24\JE(DI)\Visual Studio C#\Concesionario\obj\Debug\net7.0-windows\Concesionario.AssemblyInfoInputs.cache
+G:\2DAM-23-24\JE(DI)\Visual Studio C#\Concesionario\obj\Debug\net7.0-windows\Concesionario.AssemblyInfo.cs
+G:\2DAM-23-24\JE(DI)\Visual Studio C#\Concesionario\obj\Debug\net7.0-windows\Concesionario.csproj.CoreCompileInputs.cache
+G:\2DAM-23-24\JE(DI)\Visual Studio C#\Concesionario\obj\Debug\net7.0-windows\Concesionario.dll
+G:\2DAM-23-24\JE(DI)\Visual Studio C#\Concesionario\obj\Debug\net7.0-windows\refint\Concesionario.dll
+G:\2DAM-23-24\JE(DI)\Visual Studio C#\Concesionario\obj\Debug\net7.0-windows\Concesionario.pdb
+G:\2DAM-23-24\JE(DI)\Visual Studio C#\Concesionario\obj\Debug\net7.0-windows\Concesionario.genruntimeconfig.cache
+G:\2DAM-23-24\JE(DI)\Visual Studio C#\Concesionario\obj\Debug\net7.0-windows\ref\Concesionario.dll
+C:\Users\CarmenM\Documents\Concesionario\bin\Debug\net7.0-windows\Concesionario.exe
+C:\Users\CarmenM\Documents\Concesionario\bin\Debug\net7.0-windows\Concesionario.deps.json
+C:\Users\CarmenM\Documents\Concesionario\bin\Debug\net7.0-windows\Concesionario.runtimeconfig.json
+C:\Users\CarmenM\Documents\Concesionario\bin\Debug\net7.0-windows\Concesionario.dll
+C:\Users\CarmenM\Documents\Concesionario\bin\Debug\net7.0-windows\Concesionario.pdb
+C:\Users\CarmenM\Documents\Concesionario\obj\Debug\net7.0-windows\view\MainWindow.g.cs
+C:\Users\CarmenM\Documents\Concesionario\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\CarmenM\Documents\Concesionario\obj\Debug\net7.0-windows\Concesionario_MarkupCompile.cache
+C:\Users\CarmenM\Documents\Concesionario\obj\Debug\net7.0-windows\Concesionario_MarkupCompile.lref
+C:\Users\CarmenM\Documents\Concesionario\obj\Debug\net7.0-windows\view\MainWindow.baml
+C:\Users\CarmenM\Documents\Concesionario\obj\Debug\net7.0-windows\Concesionario.g.resources
+C:\Users\CarmenM\Documents\Concesionario\obj\Debug\net7.0-windows\Concesionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CarmenM\Documents\Concesionario\obj\Debug\net7.0-windows\Concesionario.AssemblyInfoInputs.cache
+C:\Users\CarmenM\Documents\Concesionario\obj\Debug\net7.0-windows\Concesionario.AssemblyInfo.cs
+C:\Users\CarmenM\Documents\Concesionario\obj\Debug\net7.0-windows\Concesionario.csproj.CoreCompileInputs.cache
+C:\Users\CarmenM\Documents\Concesionario\obj\Debug\net7.0-windows\Concesionario.dll
+C:\Users\CarmenM\Documents\Concesionario\obj\Debug\net7.0-windows\refint\Concesionario.dll
+C:\Users\CarmenM\Documents\Concesionario\obj\Debug\net7.0-windows\Concesionario.pdb
+C:\Users\CarmenM\Documents\Concesionario\obj\Debug\net7.0-windows\Concesionario.genruntimeconfig.cache
+C:\Users\CarmenM\Documents\Concesionario\obj\Debug\net7.0-windows\ref\Concesionario.dll
